@@ -1,4 +1,4 @@
-// app.js edit 
+// app.js edit checkout
 function greet() {
   console.log("Hello, shereen!");
 }
