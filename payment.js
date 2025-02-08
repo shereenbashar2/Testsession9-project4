@@ -1,6 +1,4 @@
-// app.js edit main file
-// app.js edit checkout
-
+// app.js edit 
 function greet() {
   console.log("Hello, shereen!");
 }
