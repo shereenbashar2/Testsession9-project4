@@ -1,6 +1,6 @@
-// app.js create first time
+// app.js edit 
 function greet() {
-  console.log("Hello, shereen bashar!");
+  console.log("Hello, shereen!");
 }
 
 greet();
